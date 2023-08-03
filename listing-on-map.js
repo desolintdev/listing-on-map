@@ -7,7 +7,7 @@
     var to_result;
     let initMapLoad = (arr) => {
         // Replace YOUR_API_KEY with your Google Maps API key
-        const apiKey = 'AIzaSyDDd7_SkVVpT-1LQ0zWp2ZlwofOmX-33bQ';
+        const apiKey = 'YOUR_API_KEY';
 
         function initMap() {
             const map = new google.maps.Map(document.getElementById('map'), {
